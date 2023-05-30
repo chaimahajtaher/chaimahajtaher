@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Chaima HAJ TAHER</h1>
-<h3 align="center">A passionate Data Engineer from Tunisia 🇹🇳</h3>
+<h3 align="center">A passionate Data Scientist from Tunisia 🇹🇳</h3>
 
 - 🔭 I’m currently working on **Deep Learning in the Automotive Industry as part of my End-of-studies at Capgemini ♠ Engineering Tunisia**
 
