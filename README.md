@@ -5,15 +5,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Chaima HAJ TAHER</h1>
-<h3 align="center">A passionate Data Scientist from Tunisia 🇹🇳</h3>
+<h3 align="center"> A Datacenter & Cloud Consultant | A passionate Data Scientist from Tunisia 🇹🇳</h3>
 
-- 🔭 I’m currently working on **Deep Learning in the Automotive Industry as part of my End-of-studies at Capgemini ♠ Engineering Tunisia**
+- 🔭 I’m currently working as **Datacenter & Cloud Consultant at RFC**
+
+- 🔭 I worked on **Deep Learning in the Automotive Industry as part of my End-of-studies at Capgemini ♠ Engineering Tunisia**
 
 - 👨‍💻 All of my projects are available at [Github : Chaimahajtaher](Github : Chaimahajtaher)
 
-- 📝 I regularly write articles on [Linkedin](Linkedin)
+- 📝 I regularly write articles on [Linkedin](Linkedin) and  [Medium](Medium)
 
-- 💬 Ask me about **Oracle SQL Databases, Data Science, Data Analyst, Business Intelligence, Télécommunications**
+- 💬 Ask me about **Cloud Computing, infrastructure engineering, automation, cOracle SQL Databases, Data Science, Data Analyst, Business Intelligence, Télécommunications**
 
 - 📫 How to reach me **Linkedin : Chaima HAJ TAHER**
 
